@@ -1,0 +1,10 @@
+Databases -organised collection  of data (information)
+Data warehouse - collection of Databases
+Data marts - extracted data of similiar catogary from data warehouse
+sql - structured querry language
+        standard language to communicate with databases
+        perform task on databases
+mysql -relational Database management system provides ui to access and intract with databases
+        provides user interface with the database
+rdbms - relational database is collection of tables
+        it consist of coloumns of data catogories and rows for particular instace of that catogary
